@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/cycjimmy/semantic-github-config/compare/v1.0.2...v1.0.3) (2026-01-06)
+
+
+### Bug Fixes
+
+* **ci:** use OIDC ([9b71b8d](https://github.com/cycjimmy/semantic-github-config/commit/9b71b8d814b72a253b0bb1f1bda931264b68e9a6))
+
 ## [1.0.2](https://github.com/cycjimmy/semantic-github-config/compare/v1.0.1...v1.0.2) (2020-05-27)
 
 
